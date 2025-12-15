@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_start">Start</string>
+    <string name="tab_progress">Progress</string>
+    <string name="tab_result">Result</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+</resources>
